@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900&display=swap');
+
+body{
+	font-family: 'Lato';
+	font-size: 14px;
+	color: #666;
+}
+
+h1,h2,h3,h4{
+	font-family: 'Lato';
+}
+
+header{
+	background-color: #202020;
+}
+
+.titulo {
+	color: #fff;
+	font-family: 'Lato';
+	font-weight: bold;
+	font-size: 100px;
+	margin-bottom: 145px;
+}
+
+.subtitulo {
+	color: #FF9306;
+	font-weight: light;
+	font-size: 80px;
+	margin: 50px;
+}
+
+.textotexto {
+	font-size: 40px;
+	font-weight: light;
+}
+
+.carousel-inner {
+	align-content: center;
+}
+
+.titulodos {
+	text-align: center;
+	color: #333;
+	font-size: 50px;
+}
+
+.subtitulodos {
+	font-size: 50px;
+	text-align: center;
+}
+.straight {
+	background-image: url(../img/bg_pic1.jpg);
+	padding: 200px;
+	color: #fff;
+	text-align: center;
+}
+
+.allsorrows {
+	background-image: url(../img/bg_pic3.jpg);
+	padding: 200px;
+	color: #fff;
+	text-align: center;
+}
+
+.btn-orange {
+	background-color: #FF9306;
+	border-color: transparent;
+	color: #fff;
+	border-radius: 0;
+}
+
+.textote {
+	font-size: 30px;
+}
+
+.nav-sociales {
+	border-color: #FF9306;
+}
+
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
